@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="save_format">
+        <item>PNG</item>
+        <item>JPEG</item>
+        <item>WEBP</item>
+    </string-array>
+
+    <string-array name="crop_shapes">
+        <item>Dikdörtgen</item>
+        <item>Yuvarlak</item>
+    </string-array>
+
+</resources>

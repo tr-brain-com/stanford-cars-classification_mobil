@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="loginBackgroundColor">#FCF8E7</color>
+    <color name="login_edit_cursor_color">#C9C9C9</color>
+    <color name="colorPrimary">#FED71B</color>
+    <color name="colorPrimaryDark">#EFC601</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="login_edit_bottom_line_color">#959595</color>
+    <color name="login_edit_confirm_bottom_line_color">#FFD301</color>
+    <color name="activity_caption">#262628</color>
+    <color name="aspectRatioNotSelected">#757575</color>
+    <color name="aspectRatioText">#757575</color>
+    <color name="disabledOverlay">#3cffffff</color>
+    <color name="licenceButtonDefault">#FFD428</color>
+    <color name="licenceButtonPress">#EFBF00</color>
+    <color name="tabTextColor">#222222</color>
+    <color name="tabIndicatorColor">#888888</color>
+    <color name="backGroundColor">#51F8F3E2</color>
+</resources>
